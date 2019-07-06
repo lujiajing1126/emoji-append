@@ -1,0 +1,17 @@
+{
+  "name": "emoji-append",
+  "version": "1.0.0",
+  "description": "Append Emoji Flag to the string",
+  "main": "index.js",
+  "author": {
+    "name": "Megrez Lu",
+    "email": "lujiajing1126@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

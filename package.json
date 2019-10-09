@@ -18,5 +18,8 @@
   "scripts": {
     "test": "jest"
   },
-  "types": "index"
+  "types": "index",
+  "dependencies": {
+    "core-js": "3"
+  }
 }

@@ -1,3 +1,5 @@
+require("core-js/es/array/flat-map");
+
 const EmojiFlag = {
     'CN': '🇨🇳',
     'TW': '🇨🇳',

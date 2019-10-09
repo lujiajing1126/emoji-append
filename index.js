@@ -1,4 +1,5 @@
 require("core-js/es/array/flat-map");
+require("core-js/es/object/entries");
 
 const EmojiFlag = {
     'CN': '🇨🇳',

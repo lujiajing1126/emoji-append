@@ -12,5 +12,9 @@ describe('test basic usage - Japan', () => {
 
     test('test traditional chinese - 美國', () => {
         expect(addFlag("專線-上海-美國")).toBe("🇺🇸 專線-上海-美國");
-    })
+    });
+
+    test('test yoyu 日用 node - 新加坡', () => {
+        expect(addFlag("日用 深圳-狮城 03")).toBe("🇸🇬 日用 深圳-狮城 03");
+    });
 });

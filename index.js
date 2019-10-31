@@ -58,7 +58,11 @@ const searchKeyword = (name) => {
 }
 
 const addFlag = (name) => {
-    const flag = EmojiFlag[searchKeyword(name)];
+    let keyword = searchKeyword(name);
+    if (keyword === 'CN') {
+        return name;
+    }
+    const flag = EmojiFlag[keyword];
     return `${flag} ${name}`
 }
 

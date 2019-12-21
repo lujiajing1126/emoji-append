@@ -70,4 +70,9 @@ const addFlag = (name) => {
     return `${flag} ${name}`
 }
 
+const getFlagFromAbbr = (abbr) => {
+    return EmojiFlag[abbr] || "";
+}
+
+exports.getFlagFromAbbr = getFlagFromAbbr;
 exports.addFlag = addFlag;

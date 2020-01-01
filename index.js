@@ -22,6 +22,8 @@ const EmojiFlag = {
     'TH': '🇹🇭',
     'IN': '🇮🇳',
     'PH': '🇵🇭',
+    'AR': '🇦🇷',
+    'NL': '🇳🇱'
 };
 
 const KEYWORDS = {

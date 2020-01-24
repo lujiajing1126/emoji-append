@@ -1,6 +1,6 @@
 {
   "name": "emoji-append",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "Append Emoji Flag to the string",
   "main": "index.js",
   "author": {
@@ -13,13 +13,13 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^25.1.0"
   },
   "scripts": {
     "test": "jest"
   },
   "types": "index",
   "dependencies": {
-    "core-js": "3.6.1"
+    "core-js": "3.6.4"
   }
 }

@@ -23,7 +23,8 @@ const EmojiFlag = {
     'IN': '🇮🇳',
     'PH': '🇵🇭',
     'AR': '🇦🇷',
-    'NL': '🇳🇱'
+    'NL': '🇳🇱',
+    'MX': '🇲🇽',
 };
 
 const KEYWORDS = {

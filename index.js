@@ -47,6 +47,7 @@ const KEYWORDS = {
     'AE': ['阿联酋'],
     'IN': ['印度', '班加罗尔'],
     'PH': ['菲律宾'],
+    'MX': ['墨西哥']
 };
 
 const searchKeyword = (name) => {

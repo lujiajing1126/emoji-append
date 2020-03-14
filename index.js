@@ -29,6 +29,7 @@ const EmojiFlag = {
     'MY': '🇲🇾',
     'ZA': '🇿🇦',
     'IE': '🇮🇪',
+    'IT': '🇮🇹️'
 };
 
 const KEYWORDS = {

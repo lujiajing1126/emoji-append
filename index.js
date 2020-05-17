@@ -30,7 +30,7 @@ const EmojiFlag = {
     'ZA': '🇿🇦',
     'IE': '🇮🇪',
     'IT': '🇮🇹',
-    'ES': '🇪🇸️',
+    'ES': '🇪🇸',
 };
 
 const KEYWORDS = {

@@ -13,13 +13,13 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "jest": "^25.1.0"
+    "jest": "^26.0.1"
   },
   "scripts": {
     "test": "jest"
   },
   "types": "index",
   "dependencies": {
-    "core-js": "3.6.4"
+    "core-js": "3.6.5"
   }
 }

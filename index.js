@@ -31,6 +31,7 @@ const EmojiFlag = {
     'IE': '🇮🇪',
     'IT': '🇮🇹',
     'ES': '🇪🇸',
+    'HU': '🇭🇺',
 };
 
 const KEYWORDS = {

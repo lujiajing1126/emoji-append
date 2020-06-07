@@ -1,6 +1,6 @@
 {
   "name": "emoji-append",
-  "version": "1.3.9",
+  "version": "1.3.10",
   "description": "Append Emoji Flag to the string",
   "main": "index.js",
   "author": {
